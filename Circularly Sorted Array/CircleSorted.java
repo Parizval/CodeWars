@@ -1,6 +1,6 @@
 public class CircleSorted {
 
-    // Code by Parzival 
+    // Code by Parzival
     public boolean isCircleSorted(int[] a) {
         int index = 0 ;
         int min = a[0] ;
