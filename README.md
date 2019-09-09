@@ -9,3 +9,7 @@
 ## Problems: 
     
  - [Circularly Sorted Array](https://github.com/Parizval/CodeWars/tree/master/Circularly%20Sorted%20Array)
+ 
+ - [Mexican Wave](https://github.com/Parizval/CodeWars/tree/master/Mexican%20Wave)
+ 
+ 
