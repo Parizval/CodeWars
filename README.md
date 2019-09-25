@@ -18,3 +18,4 @@
  - [Numericals of a String](https://github.com/Parizval/CodeWars/tree/master/Numericals%20of%20a%20String)
  
  - [Find X](https://github.com/Parizval/CodeWars/tree/master/Find%20X)
+  -[Highest Rank Number in an Array](https://github.com/Parizval/CodeWars/tree/master/Highest%20Rank%20Number%20in%20an%20Array)
