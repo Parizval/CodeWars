@@ -22,3 +22,5 @@
 - [Highest Rank Number in an Array](https://github.com/Parizval/CodeWars/tree/master/Highest%20Rank%20Number%20in%20an%20Array)
 
  - [Highest Scoring Word](https://github.com/Parizval/CodeWars/tree/master/Highest%20Scoring%20Word)
+
+- [The Hashtag Generator](https://github.com/Parizval/CodeWars/tree/master/HashTagGenerator)
