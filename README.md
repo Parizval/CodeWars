@@ -24,3 +24,5 @@
  - [Highest Scoring Word](https://github.com/Parizval/CodeWars/tree/master/Highest%20Scoring%20Word)
 
 - [The Hashtag Generator](https://github.com/Parizval/CodeWars/tree/master/HashTagGenerator)
+
+- [Blackjack Scorer](https://github.com/Parizval/CodeWars/tree/master/BlackjackScorer)
