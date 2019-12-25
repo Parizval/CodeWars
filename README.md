@@ -29,4 +29,6 @@
 
  - [Numericals of a String](https://github.com/Parizval/CodeWars/tree/master/Numericals%20of%20a%20String)
 
+ - [Take a Ten Minute Walk](https://github.com/Parizval/CodeWars/tree/master/TenMinuteWalk)
+
  - [Your order,please](https://github.com/Parizval/CodeWars/tree/master/YourOrder)
