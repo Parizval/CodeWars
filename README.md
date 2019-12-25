@@ -9,6 +9,8 @@
    
 ## Problems: 
        
+ - [Longest alphabetical substring](https://github.com/Parizval/CodeWars/tree/master/AlphabeticalSubstring)
+
 - [Blackjack Scorer](https://github.com/Parizval/CodeWars/tree/master/BlackjackScorer)
 
 - [Circularly Sorted Array](https://github.com/Parizval/CodeWars/tree/master/Circularly%20Sorted%20Array)
