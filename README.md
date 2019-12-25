@@ -13,6 +13,8 @@
 
 - [Circularly Sorted Array](https://github.com/Parizval/CodeWars/tree/master/Circularly%20Sorted%20Array)
  
+ - [Counting Duplicates](https://github.com/Parizval/CodeWars/tree/master/CountingDuplicates)
+ 
  - [Find X](https://github.com/Parizval/CodeWars/tree/master/Find%20X)
    
  - [The Hashtag Generator](https://github.com/Parizval/CodeWars/tree/master/HashTagGenerator)
