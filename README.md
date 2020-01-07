@@ -17,6 +17,8 @@
  
  - [Counting Duplicates](https://github.com/Parizval/CodeWars/tree/master/CountingDuplicates)
  
+ - [Sum of Digits / Digital Root](https://github.com/Parizval/CodeWars/tree/master/DigitSum)
+ 
  - [Find X](https://github.com/Parizval/CodeWars/tree/master/Find%20X)
    
  - [The Hashtag Generator](https://github.com/Parizval/CodeWars/tree/master/HashTagGenerator)
