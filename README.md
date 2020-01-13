@@ -37,4 +37,6 @@
 
  - [Take a Ten Minute Walk](https://github.com/Parizval/CodeWars/tree/master/TenMinuteWalk)
 
+ - [Number of trailing zeros of N!](https://github.com/Parizval/CodeWars/tree/master/TrialingZeros)
+ 
  - [Your order,please](https://github.com/Parizval/CodeWars/tree/master/YourOrder)
