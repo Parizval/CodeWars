@@ -27,6 +27,8 @@
 
  - [Highest Scoring Word](https://github.com/Parizval/CodeWars/tree/master/Highest%20Scoring%20Word)
 
+ - [Mean Square Error](https://github.com/Parizval/CodeWars/tree/master/MeanSquareError)
+
  - [Mexican Wave](https://github.com/Parizval/CodeWars/tree/master/Mexican%20Wave)
 
  - [Multiples of 3 or 5](https://github.com/Parizval/CodeWars/tree/master/Multiples%20of%203%20or%205)
