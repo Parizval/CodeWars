@@ -13,6 +13,8 @@
 
 - [Blackjack Scorer](https://github.com/Parizval/CodeWars/tree/master/BlackjackScorer)
 
+- [Calculate number of inversions in array](https://github.com/Parizval/CodeWars/tree/master/Inversions)
+
 - [Circularly Sorted Array](https://github.com/Parizval/CodeWars/tree/master/Circularly%20Sorted%20Array)
  
  - [Counting Duplicates](https://github.com/Parizval/CodeWars/tree/master/CountingDuplicates)
