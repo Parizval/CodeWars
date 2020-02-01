@@ -39,6 +39,8 @@
 
  - [Row of the odd triangle](https://github.com/Parizval/CodeWars/tree/master/OddTriangle)
 
+- [What will be the odd one out?](https://github.com/Parizval/CodeWars/tree/master/OddOneOut)
+
  - [Take a Ten Minute Walk](https://github.com/Parizval/CodeWars/tree/master/TenMinuteWalk)
 
  - [Number of trailing zeros of N!](https://github.com/Parizval/CodeWars/tree/master/TrialingZeros)
