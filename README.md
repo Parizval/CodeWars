@@ -21,6 +21,8 @@
  
  - [Sum of Digits / Digital Root](https://github.com/Parizval/CodeWars/tree/master/DigitSum)
  
+ - [Product of consecutive Fib numbers](https://github.com/Parizval/CodeWars/tree/master/FibonacciProduct)
+
  - [Find X](https://github.com/Parizval/CodeWars/tree/master/Find%20X)
    
  - [The Hashtag Generator](https://github.com/Parizval/CodeWars/tree/master/HashTagGenerator)
