@@ -16,3 +16,9 @@ def productFib(prod):
         x = y 
         y = temp  
     return ans
+
+def EfficientProductFib(prod):
+    x = 0 ; y = 1 ; temp = 0  
+    while x*y < prod:
+        x,y = y,x+y  
+    return [x,y,prod == x*y]
