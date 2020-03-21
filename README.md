@@ -45,6 +45,8 @@
 
  - [Pandemia](https://github.com/Parizval/CodeWars/tree/master/Pandemia)
  
+ - [Perimeter of squares in a rectangle](https://github.com/Parizval/CodeWars/tree/master/SquarePerimeter)
+ 
  - [Take a Ten Minute Walk](https://github.com/Parizval/CodeWars/tree/master/TenMinuteWalk)
 
  - [Number of trailing zeros of N!](https://github.com/Parizval/CodeWars/tree/master/TrialingZeros)
