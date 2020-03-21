@@ -45,6 +45,8 @@
 
  - [Pandemia](https://github.com/Parizval/CodeWars/tree/master/Pandemia)
  
+ - [Perfect Power](https://github.com/Parizval/CodeWars/tree/master/PerfectPower)
+ 
  - [Perimeter of squares in a rectangle](https://github.com/Parizval/CodeWars/tree/master/SquarePerimeter)
  
  - [Take a Ten Minute Walk](https://github.com/Parizval/CodeWars/tree/master/TenMinuteWalk)
